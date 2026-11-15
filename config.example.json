@@ -1,0 +1,10 @@
+{
+  "port": 4747,
+  "owner_handles": ["+15551234567"],
+  "own_account": false,
+  "telegram_token": "",
+  "voice": "",
+  "sites": [
+    { "name": "Canva", "url": "https://www.canva.com" }
+  ]
+}
